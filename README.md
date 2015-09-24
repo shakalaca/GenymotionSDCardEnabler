@@ -12,3 +12,5 @@ Tools for enabling SD card in genymotion, replacing the emulated storage.
 
 ### What's in assets/extra ?
 - For those who want both emulated storage and SD Card..
+
+Reference: http://23pin.logdown.com/posts/301905-genymotion-enable-sd-card
