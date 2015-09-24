@@ -6,7 +6,8 @@ Tools for enabling SD card in genymotion, replacing the emulated storage.
 - Android 5.x image in genymotion
 
 ### Usage
-- Execute install.sh
+- Execute install.sh with emulator running
+- Restart emulator
 
 ### What's in assets/extra ?
 - For those who want both emulated storage and SD Card..
