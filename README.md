@@ -8,7 +8,7 @@ Tools for enabling SD card in genymotion, replacing the emulated storage.
 ### Usage
 - Execute install.sh with emulator running
 - Restart emulator
-- adb shell && cp -RΩp /data/media/0/* /sdcard/
+- adb shell && cp -Rp /data/media/0/* /sdcard/
 
 ### What's in assets/extra ?
 - For those who want both emulated storage and SD Card..
