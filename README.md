@@ -1,2 +1,12 @@
 # GenymotionSDCardEnabler
-Tools for enabling SD card in genymotion
+Tools for enabling SD card in genymotion, replacing the emulated storage.
+
+### Prerequisite
+- [Apktool](http://ibotpeaches.github.io/Apktool/)
+- Android 5.x image in genymotion
+
+### Usage
+- Execute install.sh
+
+### What's in assets/extra ?
+- For those who want both emulated storage and SD Card..
