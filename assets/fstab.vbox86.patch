@@ -1,0 +1,1 @@
+*/block/sdc*      auto      vfat      defaults      wait,voldmanaged=sdcard0:auto,noemulatedsd
